@@ -2,7 +2,7 @@
   "name": "lms--frontend-2",
   "version": "0.1.0",
   "description": "LMS | DEP 8",
-  "source": "src/index.html",
+  "source": ["src/index.html","src/register-students.html"],
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
