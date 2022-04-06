@@ -1,0 +1,19 @@
+{
+  "name": "lms--frontend-2",
+  "version": "1.0.0",
+  "description": "LMS | DEP 8",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "Dulanga Wimlaagunasekara <dulangawimalagunasekara@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "admin-lte": "^3.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  }
+}
